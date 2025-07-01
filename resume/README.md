@@ -20,7 +20,7 @@
 
 ## Education
 
-**Jenderal Soedirman University**<span class="right">Aug, 2022 - Dec, 2025 (Expected)</span>
+**Jenderal Soedirman University**<span class="right">2022.08 - 2025.12 (Expected)</span>
 
 ## Skills
 
