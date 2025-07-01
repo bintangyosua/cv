@@ -1,51 +1,56 @@
 # Resume-vuepress
+
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![](https://img.shields.io/badge/VuePress-v1.0.2-orange.svg)
 ![](https://img.shields.io/badge/license-MIT-%23373737.svg)
 
-## 简介
+## Introduction
 
-通过本项目，你可以使用 Markdown 书写简历，并通过 VuePress 部署为可预览的页面。
+This project allows you to write your personal resume using Markdown and deploy it as a static, web-accessible page using VuePress.
 
-在线预览地址：[cv.anxcye.com](https://cv.anxcye.com)
+Live Preview：[cv.bintangyosua.my.id](https://cv.bintangyosua.my.id)
 
-来源于这个项目 [Siricee/Resume-vuepress](https://github.com/Siricee/Resume-vuepress)<br>
+Based On [Siricee/Resume-vuepress](https://github.com/Siricee/Resume-vuepress)<br>
 
-
-
-## 使用
+## Usage
 
 ```bash
-git clone git@github.com:Anxcye/vuepress-cv.git
-cd Resume-vuepress
+git clone https://github.com/bintangyosua/cv.git
+cd cv
 pnpm install
 ```
-在`resume`文件夹内，根据`scaffold.md`修改`README.md`并保存，后执行以下命令
+
+Modify the `README.md` file inside the `resume` folder based on the `scaffold.md` template, then run:
+
 ```bash
-pnpm run dev 	# 预览
-pnpm run build	# 生成静态页面
+pnpm run dev 	# Development Preview
+pnpm run build	# Build static site
 ```
 
+## Exporting to PDF
 
-**打印简历**：
+Open the site in Chrome → Right-click → Print → Save as PDF
 
-Chrome 页面中右键 -> 打印 -> 另存为 pdf。
+Note: In print settings, uncheck "Headers and Footers" to avoid date/title artifacts.
 
-*注意：打印-更多设置-取消勾选页眉和页脚。否则会有标题和日期。*
+## Deployment
 
-## 部署
-本项目使用GitHub Pages + GitHub Actions自动部署。具体可参考 [官方文档](https://v1.vuepress.vuejs.org/zh/guide/deploy.html#github-pages-and-github-actions)
+This project uses GitHub Actions and GitHub Pages for automatic deployment.
+For details, refer to the official VuePress documentation.
 
-其他方式部署这里不讲解，请参阅 [VuePress文档|部署](https://v1.vuepress.vuejs.org/guide/deploy.html)。
+For other deployment methods, see: VuePress Docs | Deployment
 
----
+## Development Notes
 
-## 开发
+This project is built with VuePress v1.0.2, and follows the recommended directory structure from the official documentation.
 
-本项目依赖于VuePress 1.0.2，结构按官方文档推荐风格设计，有问题请先参阅 [官方文档](https://v1.vuepress.vuejs.org/guide/deploy.html)。
+If you encounter any issues, refer to the [VuePress official guide](https://v1.vuepress.vuejs.org/guide/).
 
-### 命名
+## Conventions
 
-所有页面、目录下的默认页均为 `README.md` 且 **不可更改**，这是VuePress的约定。
+All default pages in any folder must be named README.md, and this must not be changed, as per VuePress conventions.
 
-本项目中的 `根目录 README.md` 与 `resume/README.md` 完全不同，前者为项目说明文档，后者为简历文档。
+Please note:
+
+- The root-level `README.md` is this project documentation.
+- The `resume/README.md` contains the actual resume content.
