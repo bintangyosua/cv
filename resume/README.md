@@ -10,6 +10,14 @@
   </style>
   
   <ul>
+    <li>
+      <span><img src="./img/language.svg" alt="Language Icon" /></span>
+      <a href="/">en</a>&nbsp;
+      <a href="/id">id</a>&nbsp;
+      <a href="/jp">jp</a>&nbsp;
+      <a href="/zh">zh</a>&nbsp;
+      <a href="/sv">sv</a>
+    </li>
     <li><span><img src="./img/email-outline.svg"></span> <a href="mailto:itzbintangyosua@gmail.com" target="_blank">itzbintangyosua@gmail.com</a></li>
     <li><span><img src="./img/github-outline.svg"></span> <a href="https://github.com/bintangyosua" target="_blank">github.com/bintangyosua</a></li>
     <li><span><img src="./img/person-outline.svg"></span> <a href="https://bintangyosua.my.id" target="_blank">bintangyosua.my.id</a></li>
@@ -62,3 +70,4 @@ Worked on multiple freelance projects involving web and mobile development acros
 
 - Actively engaged in exploring emerging technologies and contributing to open-source. Passionate about innovation, with a proven ability to self-learn and adapt in dynamic environments.
 - Online CV：<a href="https://cv.bintangyosua.my.id" target="_blank">cv.bintangyosua.my.id</a>
+<!-- - Languages: [English (Professional Working Proficiency)](./README.md), [Indonesia (Native)](./id/README.md) -->
