@@ -41,7 +41,7 @@
 
 ## Experience
 
-### Sakola Kembara <span class="role">Fullstack Developer</span><a href="https://sakolakembara.org" target="_blank">sakolakembara.org</a> <span class="right">2025.06 - 2025-07</span>
+### Sakola Kembara <span class="role">Fullstack Developer</span><a href="https://sakolakembara.org" target="_blank">sakolakembara.org</a> <span class="right">2025.06 - 2025.07</span>
 
 `Vue` `Go` `GRPC` `LMS` `Docker`
 
