@@ -1,7 +1,7 @@
 module.exports = {
   title: "Bintang Yosua's Resume",
   base: "/",
-  head: [["link", { rel: "icon", href: "/images/resume.svg" }]],
+  head: [["link", { rel: "icon", href: "/images/logo.png" }]],
   themeConfig: {
     navbar: false,
     sidebar: [
