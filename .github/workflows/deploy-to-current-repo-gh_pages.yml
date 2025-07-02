@@ -1,21 +1,31 @@
 name: A TO A:GH_PAGES
 on: [push]
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - name: Build and Deploy
-        uses: jenkey2011/vuepress-deploy@master
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BUILD_SCRIPT: yarn && yarn build
-          BUILD_DIR: resume/.vuepress/dist/
-          CNAME: cv.bintangyosua.my.id
+      - name: Install dependencies
+        run: |
+          corepack enable
+          yarn install
+        working-directory: resume
+
+      - name: Build
+        run: yarn build
+        working-directory: resume
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: resume/.vuepress/dist
+          cname: cv.bintangyosua.my.id
