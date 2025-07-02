@@ -1,6 +1,7 @@
 module.exports = {
   title: "Bintang Yosua's Resume",
   base: "/",
+  head: [["link", { rel: "icon", href: "/images/resume.svg" }]],
   themeConfig: {
     navbar: false,
     sidebar: [
