@@ -70,4 +70,4 @@ Worked on multiple freelance projects involving web and mobile development acros
 
 - Actively engaged in exploring emerging technologies and contributing to open-source. Passionate about innovation, with a proven ability to self-learn and adapt in dynamic environments.
 - Online CV：<a href="https://cv.bintangyosua.my.id" target="_blank">cv.bintangyosua.my.id</a>
-<!-- - Languages: [English (Professional Working Proficiency)](./README.md), [Indonesia (Native)](./id/README.md) -->
+<!-- - Bahasa: [Inggris (Professional Working Proficiency)](/README.md), [Indonesia (Native)](/id/README.md) -->

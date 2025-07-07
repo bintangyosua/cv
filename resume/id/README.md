@@ -32,12 +32,12 @@
 
 ## Kemampuan
 
-- **Data Science & Machine Learning**: Berpengalaman dalam analisis data, prapemrosesan, rekayasa fitur, pembangunan dan evaluasi model, pengujian hipotesis, serta metode statistik seperti interval kepercayaan dan uji A/B. Terbiasa menggunakan pustaka dan alat seperti pandas, numpy, matplotlib, seaborn, scikit-learn, dan TensorFlow.
+- **Data Science & Machine Learning**: Berpengalaman dalam analisis data, *preprocessing*, *feature engineering*, pembuatan dan evaluasi model, pengujian hipotesis, serta metode statistik seperti *confidence interval* dan *A/B testing*. Mahir menggunakan *library* dan *tools* seperti pandas, numpy, matplotlib, seaborn, scikit-learn, dan TensorFlow.
 - **Node.js**: Mahir membangun aplikasi fullstack menggunakan Next.js, NestJS, SvelteKit, dan Express, serta kerangka kerja frontend seperti React, Vue, dan Svelte. Juga berpengalaman dengan standar web modern seperti Hono.
 - **Python**: Terampil dalam membangun API dan layanan backend menggunakan FastAPI dan Flask.
-- **Golang**: Mahir mengembangkan layanan backend dan arsitektur mikroservis menggunakan Go dengan Echo dan gRPC untuk API yang efisien dan skalabel.
-- **PHP**: Mahir menggunakan Laravel untuk mengembangkan sistem backend yang andal, dashboard admin dengan basis data MySQL.
-- **Dart & Flutter**: Mahir membangun aplikasi mobile lintas platform menggunakan Flutter, dengan pengalaman dalam desain UI responsif, manajemen state, integrasi dengan RESTful API serta backend Firebase dan Supabase, serta implementasi autentikasi dan kontrol akses berbasis peran (RBAC) untuk kebutuhan dunia nyata.
+- **Golang**: Mahir mengembangkan *backend services* dan arsitektur *microservices* menggunakan Go dengan Echo dan gRPC untuk API yang efisien dan *scalable*.
+- **PHP**: Mahir menggunakan Laravel untuk mengembangkan sistem backend, dashboard admin dengan *database* MySQL.
+- **Dart & Flutter**: Mahir membangun aplikasi mobile lintas platform menggunakan Flutter, dengan pengalaman dalam desain UI responsif, manajemen state, integrasi dengan RESTful API serta backend Firebase dan Supabase.
 
 ## Pengalaman
 
@@ -53,21 +53,21 @@ Berkontribusi dalam pengembangan sistem Learning Management System (LMS) yang di
 
 ---
 
-### Bekerja Lepas <span class="role">Fullstack Developer</span><span class="right">2025.04 - Now</span>
+### Freelance <span class="role">Fullstack Developer</span><span class="right">2025.04 - Now</span>
 
 `Nextjs` `Nestjs` `Flutter` `Laravel` `Coolify` `SSH` `VPS` `Docker`
 
-Menyelesaikan berbagai proyek freelance yang melibatkan pengembangan aplikasi web dan mobile lintas teknologi. Fokus pada pembangunan aplikasi yang siap produksi dengan deployment yang stabil, integrasi layanan pihak ketiga, dan sistem akses berbasis peran.
+Menyelesaikan berbagai proyek freelance yang melibatkan pengembangan aplikasi web dan mobile lintas teknologi. Fokus pada pembangunan aplikasi yang siap produksi dengan deployment yang stabil dan integrasi layanan pihak ketiga.
 
 - Membuat dan mengelola product backlog, memprioritaskan fitur, serta berkoordinasi langsung dengan klien untuk menyelaraskan keputusan teknis dengan kebutuhan bisnis.
-- Mengembangkan aplikasi top-up game berbasis web menggunakan Next.js dan NestJS, dengan integrasi Xendit sebagai gerbang pembayaran dan API Tokovoucher untuk pemenuhan kredit game. <a href="https://tokudigital.com" target="_blank">tokudigital.com</a>
-- Melakukan deployment aplikasi ke VPS mandiri menggunakan Docker, Coolify, dan alur kerja berbasis SSH untuk pengiriman berkelanjutan.
-- Mendesain dan mengimplementasikan website profil perusahaan untuk klien asuransi menggunakan Laravel dan MySQL, dengan penekanan pada logika backend dan manajemen konten dinamis melalui admin panel kustom. <a href="https://budigadai.com" target="_blank">budigadai.com</a>
-- Membangun aplikasi mobile untuk pengajuan surat mahasiswa menggunakan Flutter dan Supabase, memungkinkan mahasiswa mengajukan dokumen terkait skripsi atau magang.
-- Menangani perancangan skema basis data, pembuatan REST API, dan pengujian integrasi di seluruh proyek.
+- Mengembangkan aplikasi top-up game berbasis web menggunakan Next.js dan NestJS, dengan integrasi Xendit sebagai *payment method* dan API Tokovoucher untuk top-up game. <a href="https://web.test.tokudigital.com" target="_blank">web.test.tokudigital.com</a>
+- Melakukan deployment aplikasi ke VPS menggunakan Docker, Coolify, dan alur kerja berbasis SSH untuk *continuous deployment*.
+- Mendesain dan mengimplementasikan website profil perusahaan untuk klien asuransi menggunakan Laravel dan MySQL, dengan penekanan pada logika backend dan manajemen konten dinamis melalui admin panel. <a href="https://budigadai.com" target="_blank">budigadai.com</a>
+- Membangun aplikasi mobile untuk pengajuan surat mahasiswa menggunakan Flutter dan Supabase, memungkinkan mahasiswa mengajukan dokumen terkait skripsi, magang, serta surat-surat lainnya.
+- Menangani perancangan *database*, pembuatan REST API, dan pengujian integrasi di seluruh proyek.
 
 ## Lain-lain
 
 - Aktif mengeksplorasi teknologi baru dan berkontribusi dalam proyek open-source. Memiliki semangat tinggi terhadap inovasi, dengan kemampuan belajar mandiri dan beradaptasi dalam lingkungan yang dinamis.
 - CV Online: <a href="https://cv.bintangyosua.my.id" target="_blank">cv.bintangyosua.my.id</a>
-<!-- - Bahasa: [Inggris (Kemampuan Profesional)](./README.md), [Indonesia (Penutur Asli)](./id/README.md) -->
+<!-- - Bahasa: [Inggris (Professional Working Proficiency)](/README.md), [Indonesia (Native)](/id/README.md) -->
