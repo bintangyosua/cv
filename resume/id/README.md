@@ -60,7 +60,7 @@ Berkontribusi dalam pengembangan sistem Learning Management System (LMS) yang di
 Menyelesaikan berbagai proyek freelance yang melibatkan pengembangan aplikasi web dan mobile lintas teknologi. Fokus pada pembangunan aplikasi yang siap produksi dengan deployment yang stabil dan integrasi layanan pihak ketiga.
 
 - Membuat dan mengelola product backlog, memprioritaskan fitur, serta berkoordinasi langsung dengan klien untuk menyelaraskan keputusan teknis dengan kebutuhan bisnis.
-- Mengembangkan aplikasi top-up game berbasis web menggunakan Next.js dan NestJS, dengan integrasi Xendit sebagai *payment method* dan API Tokovoucher untuk top-up game. <a href="https://web.test.tokudigital.com" target="_blank">web.test.tokudigital.com</a>
+- Mengembangkan aplikasi top-up game berbasis web menggunakan Next.js dan NestJS, dengan integrasi Xendit sebagai *payment method* dan API Tokovoucher untuk top-up game. <a href="https://tokudigital.com" target="_blank">tokudigital.com</a>
 - Melakukan deployment aplikasi ke VPS menggunakan Docker, Coolify, dan alur kerja berbasis SSH untuk *continuous deployment*.
 - Mendesain dan mengimplementasikan website profil perusahaan untuk klien asuransi menggunakan Laravel dan MySQL, dengan penekanan pada logika backend dan manajemen konten dinamis melalui admin panel. <a href="https://budigadai.com" target="_blank">budigadai.com</a>
 - Membangun aplikasi mobile untuk pengajuan surat mahasiswa menggunakan Flutter dan Supabase, memungkinkan mahasiswa mengajukan dokumen terkait skripsi, magang, serta surat-surat lainnya.
