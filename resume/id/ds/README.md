@@ -32,7 +32,7 @@
 
 ## Kemampuan
 
-- **Data Science & Machine Learning**: Berpengalaman dalam analisis data, *preprocessing*, *feature engineering*, pembuatan dan evaluasi model, pengujian hipotesis, serta metode statistik seperti *confidence interval* dan *A/B testing*. Mahir menggunakan *library* dan *tools* seperti pandas, numpy, matplotlib, seaborn, scikit-learn, dan TensorFlow.
+- **Data Science & Machine Learning**: Berpengalaman dalam analisis data, _preprocessing_, _feature engineering_, pembuatan dan evaluasi model, pengujian hipotesis, serta metode statistik seperti _confidence interval_ dan _A/B testing_. Mahir menggunakan _library_ dan _tools_ seperti pandas, numpy, matplotlib, seaborn, scikit-learn, dan TensorFlow.
 - **Node.js**: Mahir membangun aplikasi fullstack menggunakan Next.js, NestJS, SvelteKit, dan Express, serta kerangka kerja frontend seperti React, Vue, dan Svelte. Juga berpengalaman dengan standar web modern seperti Hono.
 - **Python**: Terampil dalam membangun API dan layanan backend menggunakan FastAPI dan Flask.
 
